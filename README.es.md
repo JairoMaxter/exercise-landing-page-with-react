@@ -41,4 +41,3 @@ Lo que realmente queremos lograr con este ejercicio es que aprendas a decidir qu
 
 Una vez terminada la estrategia puedes empezar a codigicar, 
 ¡Empieza a programar 🎊!
-
